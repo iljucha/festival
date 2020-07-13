@@ -1,0 +1,52 @@
+{
+  "_from": "@iljucha/festival@1.0.2",
+  "_id": "@iljucha/festival@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-+cDe2ih9xEhUP+XbhI/GsnzvQcW0akxE5BJ3iw2W7V5RC1zx0dg7UNQDsFKO7iIeOMudZmlzXc90ye50TFs+tA==",
+  "_location": "/@iljucha/festival",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@iljucha/festival@1.0.2",
+    "name": "@iljucha/festival",
+    "escapedName": "@iljucha%2ffestival",
+    "scope": "@iljucha",
+    "rawSpec": "1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@iljucha/festival/-/festival-1.0.2.tgz",
+  "_shasum": "2a7b5a9cb7b592324591e19adbfff5177fa4178d",
+  "_spec": "@iljucha/festival@1.0.2",
+  "_where": "/home/ilja/Projekte/iljushka",
+  "author": {
+    "name": "Ilja Bituzki"
+  },
+  "bugs": {
+    "url": "https://github.com/iljucha/festival/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Events",
+  "homepage": "https://github.com/iljucha/festival#readme",
+  "keywords": [
+    "events"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@iljucha/festival",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iljucha/festival.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "version": "1.0.2"
+}

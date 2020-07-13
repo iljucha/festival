@@ -1,2 +1,2 @@
-# festival
-Event Handler Object
+# Festival
+Description coming soon (I hope..) :D
